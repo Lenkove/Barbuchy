@@ -15,7 +15,7 @@ body {
 .header {
   background-image: url("https://lenkove.github.io/Barbuchy/WS1jjn96W90_s600x600.jpg");
   height: 600px;
-  background-repeat: no-repeat;
+  background-repeat: repeat-x;
 
 }
 
