@@ -15,13 +15,12 @@ body {
 .header {
   background-image: url("https://lenkove.github.io/Barbuchy/WS1jjn96W90_s600x600.jpg");
   height: 600px;
-  background-repeat: no repeat;
+  background-repeat: no-repeat;
 
 }
 
 h1 {
-  color: rgb(3, 150, 100);
-  color: rgba(3, 101, 100, 0.9);
+  color: red;
   font-family: 'Covered By Your Grace', sans-serif;
   font-size: 100px;
   line-height: 76px;
